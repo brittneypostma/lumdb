@@ -3,8 +3,10 @@
 }
 
 .App-header {
+  display: grid;
+  align-items: center;
   background-color: #111;
-  height: 60px;
+  height: 30px;
   padding: 20px;
   color: white;
 }
